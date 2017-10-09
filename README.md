@@ -4,8 +4,8 @@ web scraping using Selenium+Beautiful Soup in python
 Webscraping certain sites is not permitted with just Beautiful Soup ( server restrictions/prohibitions on scrits ) .
 Even with adding a header 
 ```python
-            request_object.add_header('User-Agent',
-                                      'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36')
+request_object.add_header('User-Agent',
+                           Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36')
 ```
 would not help .
 
