@@ -26,3 +26,4 @@ Selenium can open a browser object using a WebDriver call and navigate to the pa
 ```python
 driver = webdriver.Chrome(chrome_path)
 ```
+A video link , under the code section , is given that shows using the above mentioned techniques.
